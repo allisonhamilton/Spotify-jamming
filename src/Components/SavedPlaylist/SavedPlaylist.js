@@ -1,4 +1,5 @@
 import React from "react";
+import "./SavedPlaylist.css"
 
 class SavedPlaylist extends React.Component {
   render() {
